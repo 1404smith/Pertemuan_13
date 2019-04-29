@@ -1,0 +1,1 @@
+circual linked list adalah suatu linked list yang tidak memiliki nilai nil/NULL untuk medan sambungannya sedangkan linear linked list adalah koleksi data item yangtersusun dalam sebuah barisan secara linear ,dengan penyisipan dan pemindahan dapat dilakukan dalam semua tempat di LL tersebut.
